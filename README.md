@@ -11,8 +11,6 @@ batch_tweets.py      # Script principal de procesamiento batch
 
 test_spark.py        # Script de prueba para validar PySpark
 
-data/
-
 tweets.csv       # Archivo CSV de entrada 
 
 # Objetivo del proyecto
