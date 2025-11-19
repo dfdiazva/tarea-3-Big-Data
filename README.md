@@ -14,3 +14,17 @@ test_spark.py        # Script de prueba para validar PySpark
 data/
 
 tweets.csv       # Archivo CSV de entrada 
+
+# Objetivo del proyecto
+
+Procesar un dataset de tweets en modo batch usando PySpark.
+
+Convertir fechas y agrupar tweets por hora.
+
+Generar métricas simples y visuales como:
+
+Número de tweets por hora
+
+Transformación básica del dataset
+
+Demostrar la correcta configuración de un entorno Spark en Windows.
