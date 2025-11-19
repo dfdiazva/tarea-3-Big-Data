@@ -13,4 +13,4 @@ test_spark.py        # Script de prueba para validar PySpark
 
 data/
 
-tweets.csv       # Archivo CSV de entrada (no incluido por defecto)
+tweets.csv       # Archivo CSV de entrada 
