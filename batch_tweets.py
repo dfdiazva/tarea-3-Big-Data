@@ -60,6 +60,6 @@ tweets_por_hora = df_time.groupBy(
 print("\n=== Tweets por hora ===")
 tweets_por_hora.show(truncate=False)
 
-print("\n✅ Procesamiento batch completado.")
+print("\n Procesamiento batch completado.")
 spark.stop()
 
